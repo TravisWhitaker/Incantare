@@ -1,0 +1,2 @@
+# Incantare
+Syllabic Manipulation Library
