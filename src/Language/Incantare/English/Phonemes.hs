@@ -15,16 +15,16 @@ module Language.Incantare.English.Phonemes where
 
 import Data.List (intercalate)
 
-data Phon = Aa -- odd
-          | Ae -- at
-          | Ah -- hut
-          | Ao -- ought
-          | Aw -- cow
-          | Ax -- abaft
-          | Ay -- hide
-          | Ea -- wear
-          | Eh -- Ed
-          | Er -- hurt
+data Phon = Aa -- as in "odd"
+          | Ae -- as in "at"
+          | Ah -- as in "hut"
+          | Ao -- as in "ought"
+          | Aw -- as in "cow"
+          | Ax -- as in "abaft"
+          | Ay -- as in "hide"
+          | Ea -- as in "wear"
+          | Eh -- as in "Ed"
+          | Er -- as in "hurt"
           | Ey -- as in "ate"
           | Ia -- as in "fortieth"
           | Ih -- as in "it"
